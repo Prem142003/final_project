@@ -1,6 +1,6 @@
 /* src/components/Navbar.css */
 nav {
-  background: linear-gradient(90deg, rgba(0, 147, 255, 1) 0%, rgba(33, 150, 243, 1) 100%); /* Gradient background */
+  background: linear-gradient(90deg, rgb(232, 97, 97) 0%, rgba(33, 150, 243, 1) 100%); /* Gradient background */
   color: #fff; /* White text */
   padding: 1rem 2rem;
   display: flex;
